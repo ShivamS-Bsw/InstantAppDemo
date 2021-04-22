@@ -6,7 +6,6 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.bsw.games.instant"
         minSdkVersion 18
         targetSdkVersion 30
         versionCode instantVersion
