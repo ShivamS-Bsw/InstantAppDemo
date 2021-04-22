@@ -1,9 +1,9 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
-    ext.appVersion = 2
-    ext.appVersionName = '1.1'
-    ext.instantVersion = 2
-    ext.instantVersionName = '1.1'
+    ext.appVersion = 1
+    ext.appVersionName = '1.0'
+    ext.instantVersion = 1
+    ext.instantVersionName = '1.0'
     repositories {
         google()
         jcenter()
